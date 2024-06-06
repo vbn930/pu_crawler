@@ -1,0 +1,41 @@
+[2024-03-25 21:29:40][Debug] Driver init
+[2024-03-25 21:29:42][Event] PU crawler
+[2024-03-25 21:29:42][Event] Dealer Number : F30477, ID : JKIM, PW : piston7759!!!
+[2024-03-25 21:29:45][Debug] Get *https://dealer.parts-unlimited.com/login* page
+[2024-03-25 21:29:45][Debug] Wait 2 secs
+[2024-03-25 21:29:48][Debug] Wait 2 secs
+[2024-03-25 21:29:50][Debug] Wait 2 secs
+[2024-03-25 21:29:52][Debug] Wait 5 secs
+[2024-03-25 21:29:57][Event] Login succes!
+[2024-03-25 21:29:57][Debug] Wait 2 secs
+[2024-03-25 21:29:59][Debug] Wait 2 secs
+[2024-03-25 21:30:01][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-6848* page
+[2024-03-25 21:30:03][Debug] Find product code 0110-6848 : https://dealer.parts-unlimited.com/search;q=0110-6848#partNumber-01106848
+[2024-03-25 21:30:03][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-6848#partNumber-01106848* page
+[2024-03-25 21:30:04][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:04][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-6848#partNumber-01106848* page
+[2024-03-25 21:30:05][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:05][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-6848#partNumber-01106848* page
+[2024-03-25 21:30:07][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:07][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-6848#partNumber-01106848* page
+[2024-03-25 21:30:08][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:08][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-6848#partNumber-01106848* page
+[2024-03-25 21:30:09][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:09][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-6848#partNumber-01106848* page
+[2024-03-25 21:30:10][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:10][Error] Cannot find product : 0110-6848
+[2024-03-25 21:30:11][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-7019* page
+[2024-03-25 21:30:11][Debug] Find product code 0110-7019 : https://dealer.parts-unlimited.com/search;q=0110-7019#partNumber-01107019
+[2024-03-25 21:30:11][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-7019#partNumber-01107019* page
+[2024-03-25 21:30:12][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:12][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-7019#partNumber-01107019* page
+[2024-03-25 21:30:13][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:13][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-7019#partNumber-01107019* page
+[2024-03-25 21:30:14][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:14][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-7019#partNumber-01107019* page
+[2024-03-25 21:30:15][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:15][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-7019#partNumber-01107019* page
+[2024-03-25 21:30:16][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:16][Debug] Get *https://dealer.parts-unlimited.com/search;q=0110-7019#partNumber-01107019* page
+[2024-03-25 21:30:18][Error] Error in get_product_info : list index out of range
+[2024-03-25 21:30:18][Error] Cannot find product : 0110-7019
