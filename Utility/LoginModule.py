@@ -16,9 +16,6 @@ def pu_login_module(driver_manager, logger, number, id, pw):
     try:
         driver = driver_manager.get_driver()
         login_url = "https://dealer.parts-unlimited.com/login"
-        #number = F30477
-        #id = JKIM
-        #pw = piston7759!!!
         if driver is None:
             return False
         
